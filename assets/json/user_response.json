@@ -1,0 +1,28 @@
+{
+      "success": true,
+      "time": "2023-08-15 22:45:33 UTC",
+      "message": "Sample data for testing and learning purposes",
+      "total_users": 1000,
+      "offset": 10,
+      "limit": 20,
+      "users": [
+           {
+                  "first_name": "Terry",
+                  "last_name": "Santos",
+                  "email": "terry.santos.11@slingacademy.com",
+                  "phone": "001-119-617-4472",
+                  "street": "10532 Villanueva Plaza",
+                  "state": "West Virginia",
+                  "country": "Uzbekistan",
+                  "longitude": 65.754216,
+                  "id": 11,
+                  "gender": "male",
+                  "date_of_birth": "1938-12-16T00:00:00",
+                  "job": "Wellsite geologist",
+                  "city": "Port Lisa",
+                  "zipcode": "96636",
+                  "latit ude": -13.9749255,
+                  "profile_picture": "https://api.slingacademy.com/public/sample-users/11.png"
+            }
+      ]
+}
